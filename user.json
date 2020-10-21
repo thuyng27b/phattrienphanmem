@@ -1,0 +1,29 @@
+{
+  "additionalUserInfo":
+  {
+    "isNewUser": false,
+    "profile":
+      {
+        "first_name": "Sậu",
+        "id": "188535299505800",
+        "last_name": "Phạm",
+        "middle_name": "Văn",
+        "name": "Phạm Văn Sậu",
+        "picture": "[Object]"
+      },
+    "providerId": "facebook.com"
+  },
+  "user":
+    {
+      "displayName": "Phạm Văn Sậu",
+      "email": null,
+      "emailVerified": false,
+      "isAnonymous": false,
+      "metadata": "[Object]",
+      "phoneNumber": null,
+      "photoURL": "https://graph.facebook.com/188535299505800/picture",
+      "providerData": "[Array]",
+      "providerId": "firebase",
+      "uid": "LU1i2OYHsKV2ut04GKVoO8tqnsb2"
+    }
+}

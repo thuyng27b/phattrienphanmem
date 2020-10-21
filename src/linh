@@ -1,0 +1,34 @@
+      /*
+      <View style={styles.style}>
+
+        <FlatList
+          data={da}
+          numColumns={3}
+          renderItem={({item}) => (
+            <View style={{flex: 1}}>
+              <Text style={styles.gra}>new tẽt</Text>
+              <Text style={styles.cot}>new tẽt</Text>
+
+              <GrammarContent type={item.type} content={item.content} />
+            </View>
+          )}
+        />
+
+        <View style={styles.footer}>
+          <TouchableOpacity
+            style={{width: '100%', height: 50}}
+            onPress={() => {
+              this.props.navigation.navigate('Practice');
+            }}>
+            <Image
+              style={{
+                width: 50,
+                height: 50,
+              }}
+              source={require('C:\\Users\\Sau\\Desktop\\react-native\\app4\\src\\next.png')}
+            />
+          </TouchableOpacity>
+        </View>
+      </View>
+
+         */

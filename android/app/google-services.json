@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658296593761",
+    "firebase_url": "https://foxenglish-b27be.firebaseio.com",
+    "project_id": "foxenglish-b27be",
+    "storage_bucket": "foxenglish-b27be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658296593761:android:bfc6a3693f576804d8f920",
+        "android_client_info": {
+          "package_name": "com.foxenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658296593761-4hsvt336ebr9afptpv5e68a2lv5ki4bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2J-SdA9NfokplzTYUpadcYLlUIhqzVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658296593761-4hsvt336ebr9afptpv5e68a2lv5ki4bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
